@@ -10,7 +10,7 @@ import Home from './src/Screens/Home';
 
 
 const Stack = createStackNavigator();
-
+//Login feature done
 const App = () => {
   const [splash, showSplash] = useState(true)
 useEffect(() => {
